@@ -1,0 +1,1 @@
+# FastAPI + asyncpg + 4 gunicorn workers +
